@@ -1,0 +1,5 @@
+#ignore packages installed by NPM
+node_modules
+
+#put any other files you dont want to check into git here,
+# such as DS.store (osx), *back, etc
